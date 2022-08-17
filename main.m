@@ -323,8 +323,8 @@ end
 %Message if there is no path between source and target even in the first iteration
 disp('NO ROUTES BETWEEN SOURCE (NODE1) AND TARGET (NODE2)')
 
-%Call aco.m file to run same scenario within aco script
+%Call Qaco.m file to run same scenario within Qaco script
 toc
-run aco.m
+run Qaco.m
 
-%% ANOTAÇÕES IMPORTANTES
+%% ANOTAÃ‡Ã•ES IMPORTANTES
